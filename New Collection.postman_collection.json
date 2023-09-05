@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "dd379fa9-74f6-47b4-bc50-ea0d90e3650d",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24234998",
+		"_collection_link": "https://galactic-spaceship-831683.postman.co/workspace/weather~d96c4f78-37c4-4052-9094-cb3a931ea8f3/collection/24234998-dd379fa9-74f6-47b4-bc50-ea0d90e3650d?action=share&source=collection_link&creator=24234998"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
